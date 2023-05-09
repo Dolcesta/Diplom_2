@@ -1,0 +1,8 @@
+usertest\create\UserCreatePositiveTest.class
+usertest\login\UserLoginPositiveTest.class
+ordertest\OrderTest.class
+usertest\create\UserCreateNegativeParameterizedTest.class
+usertest\change\ChangeUnauthorizedUserDataTest.class
+usertest\create\UserCreateNegativeTest.class
+usertest\login\UserLoginNegativeParameterizedTest.class
+usertest\change\ChangeAuthorizedUserDataTest.class

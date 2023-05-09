@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: usertest.change.ChangeUnauthorizedUserDataTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.345 s - in usertest.change.ChangeUnauthorizedUserDataTest
