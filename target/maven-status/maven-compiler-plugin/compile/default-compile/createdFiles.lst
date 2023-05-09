@@ -1,0 +1,7 @@
+com\stellarburger\Client.class
+com\stellarburger\user\Credentials.class
+com\stellarburger\order\Order.class
+com\stellarburger\order\OrderClient.class
+com\stellarburger\user\UserGenerator.class
+com\stellarburger\user\User.class
+com\stellarburger\user\UserClient.class
